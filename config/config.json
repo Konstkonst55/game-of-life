@@ -1,0 +1,26 @@
+{
+    "appName": "Game of Life",
+    "winSize": {
+        "x": 800,
+        "y": 800
+    },
+    "fieldSize": {
+        "x": 50,
+        "y": 50
+    },
+    "deadCellColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 25
+    },
+    "aliveCellColor": {
+        "r": 255,
+        "g": 140,
+        "b": 255,
+        "a": 255
+    },
+    "border": 10,
+    "fps": 10,
+    "seed": 0
+}
