@@ -1,0 +1,57 @@
+### C++ ###
+*.d
+
+*.slo
+*.lo
+*.o
+*.obj
+
+*.gch
+*.pch
+
+*.mod
+*.smod
+
+*.so
+*.dylib
+*.dll
+
+*~
+.*.swp
+
+*.lai
+*.la
+*.a
+*.lib
+
+*.exe
+*.out
+*.app
+
+### CMake ###
+.ninja_*
+CMakeFiles/*
+Testing/*
+.cmake/*
+CMakeCache.txt
+build_ninja
+cmake_install.cmake
+cmake-*
+build/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/c_cpp_properties.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+.history/
+
+*.vsix
+
+### VisualStudioCode Patch ###
+.history
+.ionide
